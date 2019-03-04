@@ -24,7 +24,6 @@ Tu y trouveras mes pensées, mes découvertes, et certaines choses qui méritent
 
 Franck, 27 ans, jeune entrepreneur, qui a beaucoup échoué et qui a donc beaucoup à dire.
 
-Tiens, l'échec, parlons-en.
-
+Tiens, l'échec, parlons-en..
 
 À demain :)

@@ -1,6 +1,6 @@
 ---
 title: Un site à mon nom ? Pourquoi pas
-date: 2019-03-04 00:00:00 Z
+date: 2019-03-04 01:00:00 +01:00
 layout: post
 ---
 
@@ -16,7 +16,7 @@ Mais ça fait autre chose aussi : ça split bien trop ce petit monde qui rate du
 
 ### Hello world!
 
-Alors mon ami ! Oui toi :). Bienvenue dans mon petit espace, dans ma tête, dans ma chambre.
+Alors mon ami ! Oui toi :). Bienvenue dans mon espace, dans ma tête, dans ma chambre.
 
 Tu y trouveras mes pensées, mes découvertes, et certaines choses qui méritent, selon moi, à être réfléchi :).
 
@@ -24,6 +24,6 @@ Tu y trouveras mes pensées, mes découvertes, et certaines choses qui méritent
 
 Franck, 27 ans, jeune entrepreneur, qui a beaucoup échoué et qui a donc beaucoup à dire.
 
-Tiens, l'échec, parlons-en..
+Tiens, l'échec, parlons-en.
 
 À demain :)

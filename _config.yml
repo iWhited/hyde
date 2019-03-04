@@ -8,7 +8,7 @@ relative_permalinks: true
 
 # Setup
 title:            Franck Dupont
-tagline:          ''
+tagline:          'test'
 description:      '<br/>kindness &amp; radicality.'
 url:              https://franckdupont.com/
 baseurl:          https://franckdupont.com/

@@ -17,8 +17,5 @@ url: https://franckdupont.com/
 baseurl: https://franckdupont.com/
 author:
   name: Franck Dupont
-  url: https://twitter.com/mdo
 paginate: 5
 version: 2.1.0
-github:
-  repo: https://github.com/poole/hyde

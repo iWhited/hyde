@@ -1,6 +1,6 @@
 ---
 title: Franck
-timezone: UTC
+timezone: Europe/Paris
 collections:
   posts:
     title: Posts
@@ -12,7 +12,7 @@ markdown: redcarpet
 highlighter: pygments
 permalink: pretty
 tagline: kindness and radicality
-description: "<br/>kindness &amp; radicality."
+description: kindness & radicality.
 url: https://franckdupont.com/
 baseurl: https://franckdupont.com/
 author:

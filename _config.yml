@@ -7,14 +7,14 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            Franck Dupont
+tagline:          ''
+description:      '<br/>kindness &amp; radicality.'
+url:              http://franckdupont.com/
 baseurl:          http://franckdupont.com/
 
 author:
-  name:           'Mark Otto'
+  name:           'Franck Dupont'
   url:            https://twitter.com/mdo
 
 paginate:         5

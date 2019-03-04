@@ -10,8 +10,8 @@ relative_permalinks: true
 title:            Franck Dupont
 tagline:          ''
 description:      '<br/>kindness &amp; radicality.'
-url:              http://franckdupont.com/
-baseurl:          http://franckdupont.com/
+url:              https://franckdupont.com/
+baseurl:          https://franckdupont.com/
 
 author:
   name:           'Franck Dupont'

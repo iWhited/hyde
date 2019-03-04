@@ -1,25 +1,24 @@
-# Dependencies
-markdown:         redcarpet
-highlighter:      pygments
-
-# Permalinks
-permalink:        pretty
-
-# Setup
-title:            Franck
-tagline:          'kindness and radicality'
-description:      '<br/>kindness &amp; radicality.'
-url:              https://franckdupont.com/
-baseurl:          https://franckdupont.com/
-
+---
+title: Franck
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+markdown: redcarpet
+highlighter: pygments
+permalink: pretty
+tagline: kindness and radicality
+description: "<br/>kindness &amp; radicality."
+url: https://franckdupont.com/
+baseurl: https://franckdupont.com/
 author:
-  name:           'Franck Dupont'
-  url:            https://twitter.com/mdo
-
-paginate:         5
-
-# Custom vars
-version:          2.1.0
-
+  name: Franck Dupont
+  url: https://twitter.com/mdo
+paginate: 5
+version: 2.1.0
 github:
-  repo:           https://github.com/poole/hyde
+  repo: https://github.com/poole/hyde

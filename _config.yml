@@ -8,7 +8,6 @@ collections:
   uploads:
     title: Uploads
     output: true
-markdown: redcarpet
 highlighter: rouge
 permalink: pretty
 tagline: kindness and radicality

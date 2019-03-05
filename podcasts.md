@@ -7,4 +7,6 @@ Je prends un immense plaisir à partager mes réfléxions subites, mes découver
 
 À prendre ou à laisser, je t'invite à l'exploration de mes pensées.
 
-<iframe src="https://anchor.fm/Franckdpt/embed" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/Franckdpt/embed/episodes/Conversation-avec-Esther-French-Workshop-e3cc11" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+<iframe src="https://anchor.fm/Franckdpt/embed/episodes/Commencer-sa-start-up--ESILV-Paris-e3cb44" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>

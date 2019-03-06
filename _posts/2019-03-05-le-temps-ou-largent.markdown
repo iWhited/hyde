@@ -1,6 +1,7 @@
 ---
 title: le temps ou l'argent ?
 date: 2019-03-05 03:03:00 +01:00
+description: Si je devais choisir entre le temps et l'argent, voici lequel je choisirais.
 ---
 
 Le temps. Définitivement.

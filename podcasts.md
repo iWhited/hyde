@@ -1,5 +1,7 @@
 ---
 title: podcasts
+description: " Mes podcasts à consommer sans modération ! Je t'invite à l'exploration
+  de mes pensées."
 layout: page
 ---
 

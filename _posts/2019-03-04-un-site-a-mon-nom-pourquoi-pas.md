@@ -1,6 +1,8 @@
 ---
 title: un site à mon nom ? pourquoi pas
 date: 2019-03-04 01:00:00 +01:00
+description: 'Mon site personnel sur lequel je génère tout mon contenu. Le personal
+  branding est à l''honneur ! '
 layout: post
 ---
 

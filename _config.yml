@@ -18,5 +18,5 @@ author:
   name: Franck Dupont
 paginate: 5
 version: 2.1.0
-plugins: 
-  - jekyll-sitemap
+plugins:
+- jekyll-sitemap

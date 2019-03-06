@@ -428,3 +428,35 @@ a.pagination-item:hover {
     border-bottom-right-radius: 4px;
   }
 }
+
+
+/* Franck Dupont */
+
+.user {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+
+.two {
+  border: 5px solid white;
+  background-image: url('../FullSizeRender.jpeg');
+}
+
+.socials {
+  display: inline-block;
+}
+
+.socials > a {
+  display: inline-block;
+  margin-right: 15px;
+}
+
+.socials > a > img {
+  height: 15px;
+}

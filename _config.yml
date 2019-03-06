@@ -5,11 +5,11 @@ collections:
   posts:
     title: Posts
     output: true
+  socials:
+    title: Socials
+    output: false
   uploads:
     title: Uploads
-    output: true
-  socials:
-    title: socials
     output: true
 highlighter: rouge
 permalink: pretty

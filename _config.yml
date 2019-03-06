@@ -8,6 +8,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  socials:
+    title: socials
+    output: true
 highlighter: rouge
 permalink: pretty
 tagline: bienveillance & radicalité.

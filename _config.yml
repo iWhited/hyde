@@ -20,3 +20,5 @@ paginate: 5
 version: 2.1.0
 plugins:
 - jekyll-sitemap
+sidebartitle: Franck
+sidebardesc: bienveillance & radicalité.

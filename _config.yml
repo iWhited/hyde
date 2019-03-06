@@ -18,18 +18,3 @@ author:
   name: Franck Dupont
 paginate: 5
 version: 2.1.0
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      description: ""
-  -
-    scope:
-        path: ""
-        type: "pages"
-      values:
-        layout: "page"
-        description: ""

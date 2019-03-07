@@ -457,6 +457,10 @@ a.pagination-item:hover {
   margin-right: 15px;
 }
 
+.socials > a:last-child {
+  margin-right: 0px;
+}
+
 .socials > a > img {
   height: 15px;
 }

@@ -450,6 +450,8 @@ a.pagination-item:hover {
 
 .socials {
   display: inline-block;
+  margin-left: 5px;
+  margin-top: 10px;
 }
 
 .socials > a {

@@ -45,7 +45,7 @@
       {% assign socials_list = site.socials %}
       {% for node in socials_list %}
         <a href="{{ node.social_url }}" target="_blank">
-          <img src="{{ node.icon }}" alt="{{ node.alt }}">
+          <img src="{{ site.url }}/{{ node.icon }}" alt="{{ node.alt }}">
         </a>
       {% endfor %}
     </div>

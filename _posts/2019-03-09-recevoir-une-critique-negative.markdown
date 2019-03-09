@@ -7,7 +7,7 @@ Lorsqu'on lance un projet on reçoit toujours des feedbacks.
 
 Dans cet extrait j'explique à de jeunes étudiants entrepreneurs comment les recevoir.
 
-Et contrairement à ce que l'on pourrait penser, il est très bon signe de recevoir des critiques négatives sur son produit.
+Et contrairement à ce qu'on pourrait penser, il est très bon signe de recevoir des critiques négatives sur son produit.
 
 Plus on t'insulte, plus tu dois continuer ce que tu fais !
 

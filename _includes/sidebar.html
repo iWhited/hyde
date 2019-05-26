@@ -44,8 +44,8 @@
       
       {% assign socials_list = site.socials %}
       {% for node in socials_list %}
-        <a href="{{ node.social_url }}" target="_blank">
-          <img src="{{ site.url }}{{ node.icon }}" alt="{{ node.alt }}" title="{{ node.title-attribute }}">
+        <a href="{{ node.social_url }}" target="_blank" title="{{ node.title-attribute }}">
+          <img src="{{ site.url }}{{ node.icon }}" alt="{{ node.alt }}">
         </a>
       {% endfor %}
     </div>

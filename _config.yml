@@ -8,6 +8,9 @@ collections:
   socials:
     title: Socials
     output: false
+  titre-sidebar:
+    title: Titre sidebar
+    output: true
   uploads:
     title: Uploads
     output: true

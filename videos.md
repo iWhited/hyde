@@ -1,7 +1,7 @@
 ---
 title: vidéos
 description: On discute startup, entrepreneuriat, business, indépendance financière.
-  Toutes mes vidéos sont ici !
+  Toutes mes vidéos sont ici. Sers-toi !
 layout: page
 ---
 
